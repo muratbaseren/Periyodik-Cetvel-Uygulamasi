@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-9"?>
+<Main>
+  <Row d2p1:rowID="" xmlns:d2p1="0">
+    <AtomSimgesi>He</AtomSimgesi>
+    <AtomIsmi>Helyum</AtomIsmi>
+    <AtomNo>2</AtomNo>
+    <Grup>8A</Grup>
+    <Periyot>1</Periyot>
+    <Adet>2</Adet>
+    <BirimAğırlık>4,0026</BirimAğırlık>
+    <KısmiAğırlık>8,0052</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="1">
+    <AtomSimgesi>Kr</AtomSimgesi>
+    <AtomIsmi>Kripton</AtomIsmi>
+    <AtomNo>36</AtomNo>
+    <Grup>8A</Grup>
+    <Periyot>4</Periyot>
+    <Adet>3</Adet>
+    <BirimAğırlık>83,8</BirimAğırlık>
+    <KısmiAğırlık>251,4</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="2">
+    <AtomSimgesi>P</AtomSimgesi>
+    <AtomIsmi>Fosfor</AtomIsmi>
+    <AtomNo>15</AtomNo>
+    <Grup>5A</Grup>
+    <Periyot>3</Periyot>
+    <Adet>4</Adet>
+    <BirimAğırlık>30,97376</BirimAğırlık>
+    <KısmiAğırlık>123,895</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="3">
+    <AtomSimgesi>Si</AtomSimgesi>
+    <AtomIsmi>Silisyum</AtomIsmi>
+    <AtomNo>14</AtomNo>
+    <Grup>4A</Grup>
+    <Periyot>3</Periyot>
+    <Adet>5</Adet>
+    <BirimAğırlık>28,0855</BirimAğırlık>
+    <KısmiAğırlık>140,4275</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="4">
+    <AtomSimgesi>N</AtomSimgesi>
+    <AtomIsmi>Azot</AtomIsmi>
+    <AtomNo>7</AtomNo>
+    <Grup>5A</Grup>
+    <Periyot>2</Periyot>
+    <Adet>6</Adet>
+    <BirimAğırlık>14,0067</BirimAğırlık>
+    <KısmiAğırlık>84,0402</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="5">
+    <AtomSimgesi>V</AtomSimgesi>
+    <AtomIsmi>Vanadyum</AtomIsmi>
+    <AtomNo>23</AtomNo>
+    <Grup>5B</Grup>
+    <Periyot>4</Periyot>
+    <Adet>26</Adet>
+    <BirimAğırlık>50,9415</BirimAğırlık>
+    <KısmiAğırlık>1324,479</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="6">
+    <AtomSimgesi>H</AtomSimgesi>
+    <AtomIsmi>Hidrojen</AtomIsmi>
+    <AtomNo>1</AtomNo>
+    <Grup>1A</Grup>
+    <Periyot>1</Periyot>
+    <Adet>45</Adet>
+    <BirimAğırlık>1,0079</BirimAğırlık>
+    <KısmiAğırlık>45,3555</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="7">
+    <AtomSimgesi>Be</AtomSimgesi>
+    <AtomIsmi>Berilyum</AtomIsmi>
+    <AtomNo>4</AtomNo>
+    <Grup>2A</Grup>
+    <Periyot>2</Periyot>
+    <Adet>3</Adet>
+    <BirimAğırlık>9,01218</BirimAğırlık>
+    <KısmiAğırlık>27,03654</KısmiAğırlık>
+  </Row>
+  <Row d2p1:rowID="" xmlns:d2p1="8">
+    <AtomSimgesi>Mn</AtomSimgesi>
+    <AtomIsmi>Mangan</AtomIsmi>
+    <AtomNo>25</AtomNo>
+    <Grup>7B</Grup>
+    <Periyot>4</Periyot>
+    <Adet>16</Adet>
+    <BirimAğırlık>54,938</BirimAğırlık>
+    <KısmiAğırlık>879,007997802734</KısmiAğırlık>
+  </Row>
+</Main>

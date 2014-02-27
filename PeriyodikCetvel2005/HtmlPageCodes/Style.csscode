@@ -1,0 +1,43 @@
+p, td, th {
+	width: 150px;
+	font-family: Arial ;
+	font-size: 10pt ;
+}
+.datatable {
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #00008B;
+}
+.datatable td {
+	padding: 4px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D6DDE6;
+	text-align: Center;
+}
+.datatable th {
+	border-width: 1px;
+	border-color: #00478A;
+	background-color: #4169E1;
+	font-weight: bold;
+	text-align: Center;
+	padding-left: 4px;
+}
+.datatable caption {
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #33517A;
+	text-align: Left;
+	padding-top: 3px;
+	padding-bottom: 8px;
+}
+.datatable tr:hover, .datatable tr.hilite, .datatable tr.altrow_hilite {
+	background-color: #42A2FF;
+	color: White;
+}
+.datatable tr.altrow_ {
+	background-color: #C3D3E6;
+	color: #000000;
+}
